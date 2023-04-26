@@ -1,4 +1,4 @@
-# Presentation
+#Setting up a Node.js app on a Linux AMI on an AWS EC2 instance with Nginx
 
 1. 
 
